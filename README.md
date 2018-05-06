@@ -3,9 +3,10 @@ Contribute addiong yours!
 
 # VIDEO
 Open Movies:
-- QmdUmdJLFH3SxSUaW46VuN47wo888hFSGt9RP7dBZKHJFe 01_llama_drama_4096p.mp4
+- QmQYbDSszBMMhYevBNpAAHQPqWgjsqrEv3GBtWWP5b837s 01_llama_drama_1080p.mp4
 - Qma2ZYN1UkF9TRaJxqGuN5Ksg1Mg5rxbQAmQ46PDSipd3M 02_gran_dillama_1080p.mp4
 - QmYS4JAwG45SvDEC5AM9Hzv1dfzPoXoBq1N9aTbT3bEs86 03_caminandes_llamigos_1080p.mp4
-- Qmbm8zfxipSmJdmqvhqBD3pA786QHgxcCXB8Nd1UqDLa36 bbb_sunflower_2160p_60fps_normal.mp4
-- QmWntgau1qWJh7hos91e6CqEzSWfaSn7permky8A3WJEnS sintel_4k.mov
-- QmTFbo6im7p4ZZaBLun6ubRYZPkFoGVRDXzB6CjWoMhffb tearsofsteel_4k.mov
+- QmNr8XG6BDL4tbmEc8mtVL9ziCqeJ4NuRnx9EhGdPHjoQH bbb_sunflower_1080p_30fps_normal.mp4
+- QmYxoWHWbPLnC3eBFSdDCcMAkKheYU4aq74zvpfLzxHLh1 Sintel.2010.1080p.mkv
+- QmR8a5aaVazY1wymiUv6rak71UzFh16M2dJ1WXdzjbqJZU ToS-4k-1920.mov
+- QmeG85En5JsLx4Fg8gUKb7wNHTPiCnVDBZ7EKM56fnqKQV ed_hd.mp4
