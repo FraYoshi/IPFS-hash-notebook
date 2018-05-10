@@ -1,5 +1,8 @@
 This is a repository containing hashes of files hosted on the IPFS.
 Contribute addiong yours!
+(R) is for folders. remember to recursively add them!
+`ipfs get {{hash}} -o {{folder_name}}`
+`ipfs pin add -r`
 
 # VIDEO
 Open Movies:
@@ -10,3 +13,8 @@ Open Movies:
 - QmYxoWHWbPLnC3eBFSdDCcMAkKheYU4aq74zvpfLzxHLh1 Sintel.2010.1080p.mkv
 - QmR8a5aaVazY1wymiUv6rak71UzFh16M2dJ1WXdzjbqJZU ToS-4k-1920.mov
 - QmeG85En5JsLx4Fg8gUKb7wNHTPiCnVDBZ7EKM56fnqKQV ed_hd.mp4
+
+# 3D
+Blender:
+CC-BY:
+- (R) QmWsbNbXm1p8hHed7qP4i4WYf2DgLPiogrjpNVjS14voYV 1h-tea-set
