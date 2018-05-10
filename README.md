@@ -19,9 +19,3 @@ Open Movies:
 - QmYxoWHWbPLnC3eBFSdDCcMAkKheYU4aq74zvpfLzxHLh1 Sintel.2010.1080p.mkv
 - QmR8a5aaVazY1wymiUv6rak71UzFh16M2dJ1WXdzjbqJZU ToS-4k-1920.mov
 - QmeG85En5JsLx4Fg8gUKb7wNHTPiCnVDBZ7EKM56fnqKQV ed_hd.mp4
-
-# 3D
-Blender:
-
-CC-BY:
-- (R) QmWsbNbXm1p8hHed7qP4i4WYf2DgLPiogrjpNVjS14voYV 1h-tea-set
