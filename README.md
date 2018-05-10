@@ -1,8 +1,13 @@
 This is a repository containing hashes of files hosted on the IPFS.
+
 Contribute addiong yours!
+
 (R) is for folders. remember to recursively add them!
+
 `ipfs get {{hash}} -o {{folder_name}}`
+
 To pin all the files on the folder:
+
 `ipfs pin add -r --progress {{hash}}` # the progress flag is just to have a feeling that something is happening.
 
 # VIDEO
@@ -17,5 +22,6 @@ Open Movies:
 
 # 3D
 Blender:
+
 CC-BY:
 - (R) QmWsbNbXm1p8hHed7qP4i4WYf2DgLPiogrjpNVjS14voYV 1h-tea-set
