@@ -19,3 +19,14 @@ Open Movies:
 - QmYxoWHWbPLnC3eBFSdDCcMAkKheYU4aq74zvpfLzxHLh1 Sintel.2010.1080p.mkv
 - QmR8a5aaVazY1wymiUv6rak71UzFh16M2dJ1WXdzjbqJZU ToS-4k-1920.mov
 - QmeG85En5JsLx4Fg8gUKb7wNHTPiCnVDBZ7EKM56fnqKQV ed_hd.mp4
+
+# 3D
+ Blender:
+
+ CC-BY:
+ - QmP9Ax5eWKjXK2X3zYueeW6tHaQARm5fxtt1rSFuYfCvio xmas-hat
+ - QmNwhv2nKSnG684vZFKoZF6mJv3yE9ZQznYhMzsecW1qBD tea-set
+ - QmNyuYo2FxKXhfhxnicrNS3uxrUEYxRUc2EQaxLq7cptzf rubik-cube
+ - QmZ47jbkHA2frqXUSDrmFMswtrBpNbZd64j2qNu8FBdEoT heart
+ - QmWLkUzRyRPWLUWd7MyUWghmJyLrW6FspDi3wyCW6GvG5a geometric-ocean
+ 
