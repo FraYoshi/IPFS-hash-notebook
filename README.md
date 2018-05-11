@@ -24,9 +24,10 @@ Open Movies:
  Blender:
 
  CC-BY:
- - QmP9Ax5eWKjXK2X3zYueeW6tHaQARm5fxtt1rSFuYfCvio xmas-hat
- - QmNwhv2nKSnG684vZFKoZF6mJv3yE9ZQznYhMzsecW1qBD tea-set
- - QmNyuYo2FxKXhfhxnicrNS3uxrUEYxRUc2EQaxLq7cptzf rubik-cube
- - QmZ47jbkHA2frqXUSDrmFMswtrBpNbZd64j2qNu8FBdEoT heart
- - QmWLkUzRyRPWLUWd7MyUWghmJyLrW6FspDi3wyCW6GvG5a geometric-ocean
+ - (R) QmP9Ax5eWKjXK2X3zYueeW6tHaQARm5fxtt1rSFuYfCvio xmas-hat
+ - (R) QmNwhv2nKSnG684vZFKoZF6mJv3yE9ZQznYhMzsecW1qBD tea-set
+ - (R) QmNyuYo2FxKXhfhxnicrNS3uxrUEYxRUc2EQaxLq7cptzf rubik-cube
+ - (R) QmZ47jbkHA2frqXUSDrmFMswtrBpNbZd64j2qNu8FBdEoT heart
+ - (R) QmWLkUzRyRPWLUWd7MyUWghmJyLrW6FspDi3wyCW6GvG5a geometric-ocean
+ - (R) QmPBb8qaBvUfvmSCTSNaZTjK4oCrL3JrZn2aT5iTrAjmfM cereals
  
