@@ -25,7 +25,7 @@ Open Movies:
  Blender:
 
  CC-BY:
- - (R) QmNMVuYJY6VCTS8eYMMnT9mF52pahFViQtWcBvjBhZXaUv meteorite-live-20180706
+ - (R) QmR33gLv4nYcSNJX5FMyeEjZs9yJNrGhi7Ur45axTGZAk8 meteorite-live-20180706
  - (R) QmP9Ax5eWKjXK2X3zYueeW6tHaQARm5fxtt1rSFuYfCvio xmas-hat
  - (R) QmNwhv2nKSnG684vZFKoZF6mJv3yE9ZQznYhMzsecW1qBD tea-set
  - (R) QmNyuYo2FxKXhfhxnicrNS3uxrUEYxRUc2EQaxLq7cptzf rubik-cube
