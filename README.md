@@ -21,6 +21,11 @@ Open Movies:
 - QmR8a5aaVazY1wymiUv6rak71UzFh16M2dJ1WXdzjbqJZU ToS-4k-1920.mov
 - QmeG85En5JsLx4Fg8gUKb7wNHTPiCnVDBZ7EKM56fnqKQV ed_hd.mp4
 
+CC-BY library:
+- (R) QmNmXp9aGS3skY8R8qYZqzp1LDE6yCfvBaDR6bMouDZprP morning-fog-day1
+- QmTiJhkQssYH7BpjasEV92V8UZLzSRhjuKQVvm7hTMZo5X morning-fog-day1/timelapse-morning_fog_day1-CCBY_archive.mkv
+- QmRggTdgTUCAceYSdMB93eidAn9uVnYDTqLxoqW9EDLsUp morning-fog-day1/morning_fog_day1-CCBY_archive.mkv
+
 # 3D
  Blender:
 
