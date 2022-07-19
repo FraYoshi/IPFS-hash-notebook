@@ -1,6 +1,6 @@
 This is a repository containing hashes of files hosted on the IPFS.
 
-Contribute addiong yours!
+Contribute adding yours!
 
 (R) is for folders. remember to recursively add them!
 
